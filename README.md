@@ -2,7 +2,6 @@
 # 💫 About Me:
 - 🔭 I’m currently studying on .Net Core
 - 🌱 I’m currently learning .Net Core, JavaScript and React
-- 🤔 I’m looking for help with job
 - 💬 Ask me about everything
 - 📫 How to reach me: 
 ## 🌐 Socials:
